@@ -1,0 +1,19 @@
+{
+  "name": "cupTwerk",
+  "authors": [
+    "eSsXiV <essxiv@eSsXiVs-MacBook-Pro.local>"
+  ],
+  "description": "SPA for CSS/HTML/JAVASCRIPT",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ]
+}
